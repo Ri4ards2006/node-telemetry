@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-11-08T16:09:00+01:00",
-  "uptime_s": 182323,
+  "timestamp": "2026-11-08T17:17:00+01:00",
+  "uptime_s": 186403,
   "loadavg": [
-    0.91,
-    0.64,
-    0.53
+    2.01,
+    1.8,
+    1.38
   ],
   "mem_total_kb": 31986180,
-  "mem_available_kb": 14767716,
+  "mem_available_kb": 12783680,
   "kernel": "7.2.14-arch1-1",
   "python": "3.14.9",
   "mcp": {
